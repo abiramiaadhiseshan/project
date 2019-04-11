@@ -10,8 +10,7 @@ session_start();
 <form action="text.php" method="POST">
 	username:<input type="text" name="uname">
 <br>
-	<input type="submit" name="submit" value="OK"><br>
-	<br>
+	
 
 </form>
 </body>
